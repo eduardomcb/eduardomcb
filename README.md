@@ -11,7 +11,7 @@ object Eduardo {
     val name = "Eduardo Mateus Costa Barros"
     val acknowledgements = "Entusiasta do Desenvolvimento de Aplicativos Android e Aplicativos Multiplataforma"
 
-    val primarySkillset = "Desenvolvimento de Aplicativos Android, Node.js, Unity (C#), Godot, Kotlin Multiplaform"
+    val primarySkillset = "Desenvolvimento de Aplicativos Android, Node.js, Unity (C#), Kotlin Multiplaform"
     val languages = listOf("Java", "Kotlin", "JavaScript (Node.js)", "C#")
 }
 
@@ -34,8 +34,6 @@ height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/ico
 height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Light.svg"></code>
 <code><img 
 height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Light.svg"></code>
-<code><img 
-height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Light.svg"></code>
 <code><img 
 height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"></code>
 <code><img 
