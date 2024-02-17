@@ -4,7 +4,7 @@ Desde que comecei a programar com 11 anos, fui cativado pela magia de transforma
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
+<img align="right" width="300" src="https://github.com/eduardomcb/eduardomcb/assets/116934175/4bed62fe-55ce-41aa-bedf-36a1072838b0" />
 
 ```kotlin
 object Eduardo {
