@@ -1,6 +1,6 @@
 # Hey, amigos! 👋
 
-Desde que comecei a programar com 11 anos, fui cativado pela magia de transformar linhas de código em algo funcional e envolvente. Meu primeiro projeto, um simples jogo da velha, foi a faísca que acendeu meu amor pelo desenvolvimento de software. Hoje, minha paixão é criar aplicativos que não apenas resolvem problemas, mas também fazem os olhos dos usuários brilharem.
+Desde que comecei a programar com 12 anos, fui cativado pela magia de transformar linhas de código em algo funcional e envolvente. Meu primeiro projeto, um simples jogo da velha, foi a faísca que acendeu meu amor pelo desenvolvimento de software. Hoje, minha paixão é criar aplicativos que não apenas resolvem problemas, mas também fazem os olhos dos usuários brilharem.
 
 ## Mais sobre mim
 
