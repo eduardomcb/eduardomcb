@@ -1,21 +1,25 @@
-# Hey, amigos! 👋
+# Olá, mundo! 🌟
 
-Desde que entrei no mundo da programação, fui cativado pela magia de transformar linhas de código em algo funcional e envolvente. Meu primeiro projeto, um simples jogo da velha, foi a faísca que acendeu meu amor pelo desenvolvimento de software. Desde então, tenho explorado e aprendido continuamente neste vasto universo. Hoje, minha paixão é criar aplicativos que não apenas resolvem problemas, mas também fazem os olhos dos usuários brilharem.
+Seja bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de software. Meu primeiro projeto foi um simples jogo da velha, mas desde então venho explorando e aprimorando minhas habilidades para criar soluções inovadoras e impactantes. Gosto de transformar ideias em aplicações funcionais que proporcionam experiências envolventes aos usuários.
 
-## Mais sobre mim
+---
 
-<img align="right" width="300" src="https://github.com/eduardomcb/eduardomcb/assets/116934175/4bed62fe-55ce-41aa-bedf-36a1072838b0" />
+## 👨‍💻 Sobre mim
+
+<img align="right" width="280" src="https://media.giphy.com/media/LefafToUR72dW/giphy.gif" />
 
 ```kotlin
 object Eduardo {
     val name = "Eduardo Mateus Costa Barros"
-    val acknowledgements = "Entusiasta do Desenvolvimento de Aplicativos Android e Aplicativos Multiplataforma"
-
-    val primarySkillset = "Desenvolvimento de Aplicativos Android, Node.js, Unity (C#), Kotlin Multiplaform"
-    val languages = listOf("Java", "Kotlin", "JavaScript (Node.js)", "C#")
+    val role = "Desenvolvedor Android e Multiplataforma"
+    val passions = listOf("Desenvolvimento Mobile", "Back-end", "Tecnologias Emergentes")
+    
+    val skills = listOf("Kotlin", "Java", "JavaScript (Node.js)", "C#")
+    val tools = listOf("Android Studio", "IntelliJ IDEA", "Unity", "Next.js")
 }
-
 ```
+
+---
 
 ## Linguagens e ferramentas
 
@@ -44,24 +48,27 @@ height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/ico
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gradle-Light.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## Status
+---
 
-<a href="https://github.com/eduardomcb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomcb&theme=dracula&hide_langs_below=1" />
-</a>
+## GitHub Stats
 
-<a href="https://github.com/eduardomcb">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardomcb&show_icons=true&theme=dracula&line_height=27" alt="Eduardo Mateus github stats"/>
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardomcb&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomcb&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+</p>
 
-[twitter]: https://twitter.com/EduardoBar54900
+[twitter]: https://x.com/eduardomcb_dev
 [instagram]: https://www.instagram.com/eduardo.matss/
-[linkedin]: https://www.linkedin.com/in/eduardo-barros-6b5477241/
+[linkedin]: https://www.linkedin.com/in/eduardomcb/
 
 <br>
 
-## Rede sociais
+---
 
-🐦 [Twitter][twitter] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+## 👥 Conecte-se comigo
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eduardomcb_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.matss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomcb/)
